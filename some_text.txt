@@ -1,1 +1,2 @@
-this is the tutorial on git
+this is the tutorial on git.
+A new line is added
